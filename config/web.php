@@ -2,6 +2,6 @@
 
 return
 [
-    'id' => 'My first app in Yii2',
+    'id' => 'learn Yii2 Framework',
     'basePath' => realpath(__DIR__ . '/../')
 ];
